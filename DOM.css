@@ -1,0 +1,48 @@
+.grow {
+    color: pink;
+    font-size: 2em;
+    background: blue;
+    text-decoration: underline;
+}
+input {
+    outline-color: blue;
+    border-radius: 8px 0 0 8px;
+    border: none;
+    height: 30px;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+#but {
+    box-sizing: border-box;
+    border-radius: 0 8px 8px 0;
+    height: 30px;
+    width: 50px;
+    font-weight: bold;
+    border: none;
+    background-color: rgb(8, 8, 247);
+    color: white;
+    
+}
+div {
+    margin: auto auto;
+    display: inline-block;
+    background-color: rgb(81, 81, 180);
+    padding: 10px;
+    border-radius: 10px;
+}
+body {
+    background-color: rgb(7, 7, 82);
+    justify-content: center;
+}
+.delbutton {
+    border: none;
+    width: 80px;
+    margin-left: 20px;
+    height: 15px;
+    background: rgb(33, 33, 173);
+    color: white;
+    outline: white;
+    cursor: pointer;
+    border-radius: 8px;
+}
